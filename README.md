@@ -1,1 +1,1 @@
-# Chislopad WebGL build
+# Chislopad WebGL build (GamePush)
